@@ -1,0 +1,9 @@
+requests
+json
+fastapi
+pydantic
+cryptography
+typing
+datetime
+jwt
+uvicorn
