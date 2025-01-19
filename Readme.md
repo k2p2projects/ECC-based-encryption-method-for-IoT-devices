@@ -4,9 +4,9 @@
 The **Smart Home Device Manager** is a system designed to enable secure, efficient, and organized communication between devices in a smart home environment. The platform ensures device authentication, role-based communication rules, and secure key management for encrypted data exchange.
 
 This project was developed by :
+- [**KANCHAN PATKAR**](https://github.com/k2p2projects)
 - [**ALOK SINGH**](https://github.com/aloks1490)
 - [**RUDRESH BIJAWE**](https://github.com/bijawerudresh)
-- [**KANCHAN PATKAR**](https://github.com/k2p2projects)
 - [**SAMYAK DANDE**](https://github.com/samyakdande)
 
 ## Tech stack
